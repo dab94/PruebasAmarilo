@@ -1,0 +1,9 @@
+{
+	"name": "DfPruebaAmarilo",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c77ffc0e-a64e-4339-925a-b99703a8e4e8",
+		"tenantId": "5ffb2986-4607-440e-bb0f-d2b9ffe666e9"
+	}
+}
